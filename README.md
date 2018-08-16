@@ -4,10 +4,8 @@ Make pretty leaflets and maps of training tracks for CX and MTB.
 
 ## CX tracks in Lausanne (CH) area
 
-Code [here](map-cx/map-cx-ls.R).
+- Code [here](map-cx/map-cx-ls.R).
 
-{::nomarkdown}
+- HTMLWIDGET [here](map-cx/map-cx-ls.html).
 
-<!-- HTML CODE-->
-<iframe src="map-cx/map-cx-ls.html"> </iframe>
-{:/}
+![cx-map](map-cx/map-cx-ls.png)

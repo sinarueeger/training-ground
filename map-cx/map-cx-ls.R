@@ -24,6 +24,9 @@ m <- leaflet() %>%
 
 m  # Print the map
 
-
+## to hmtl
 library(htmlwidgets)
 saveWidget(m, file="map-cx-ls.html")
+
+## save to png
+mapview::mapshot(m, file = "map-cx-ls.png")
