@@ -10,8 +10,5 @@ Code [here](map-cx/map-cx-ls.R).
 HTMLWIDGET [here](map-cx/map-cx-ls.html).
 
 
-![cx-map](map-cx/map-cx-ls.png)
-
-
-<a href="https://htmlpreview.github.io/?https://github.com/sinarueeger/training-ground/blob/master/map-cx/map-cx-ls.html"><img src="map-cx/map-cx-ls.png" alt="Map" height="70" /></a>
+<a href="https://htmlpreview.github.io/?https://github.com/sinarueeger/training-ground/blob/master/map-cx/map-cx-ls.html"><img src="map-cx/map-cx-ls.png" alt="Map" /></a>
 
