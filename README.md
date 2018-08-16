@@ -6,8 +6,12 @@ Make pretty leaflets and maps of training tracks for CX and MTB.
 
 Code [here](map-cx/map-cx-ls.R).
 
-{::nomarkdown}
 
-<!-- HTML CODE-->
-<iframe src="map-cx/map-cx-ls.html"> </iframe>
-{:/}
+HTMLWIDGET [here](map-cx/map-cx-ls.html).
+
+
+![cx-map](map-cx/map-cx-ls.png)
+
+
+<a href="map-cx/map-cx-ls.html"><img src="map-cx/map-cx-ls.png" alt="Map" height="70" /></a>
+
